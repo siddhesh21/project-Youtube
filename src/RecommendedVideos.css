@@ -1,7 +1,6 @@
 .recommendedVideos {
     flex: 0.8;
     background-color: rgb(27, 27, 27);
-    /* height: 100vh; */
     padding: 40px 20px;
     padding-bottom: 0;
 }
