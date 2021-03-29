@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+## Added Firebase and Deployed --> https://web-app-740da.web.app here.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
